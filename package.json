@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KamalN7/ravert/issues"
   },
-  "homepage": "https://github.com/KamalN7/ravert"
+  "homepage": "https://github.com/KamalN7/ravert",
+  "dependencies": {
+    "daemonize2": "~0.4.2"
+  }
 }
