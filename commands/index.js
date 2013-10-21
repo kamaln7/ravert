@@ -1,5 +1,6 @@
 var enabled = [
-    'ping'
+    'ping',
+    'bye'
 ];
 
 var commands = {};
