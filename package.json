@@ -1,0 +1,19 @@
+{
+  "name": "ravert",
+  "version": "0.0.0",
+  "description": "A Node.js TCP daemon",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KamalN7/ravert.git"
+  },
+  "author": "Kamal Nasser <kamal@kamalnasser.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KamalN7/ravert/issues"
+  },
+  "homepage": "https://github.com/KamalN7/ravert"
+}
