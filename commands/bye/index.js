@@ -3,7 +3,6 @@ var bye = function(socket, command, args){
 
     if(force){
         socket.destroy();
-        socket.emit('end');
     } else {
         socket.end('BYE\r\n');
     }

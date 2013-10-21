@@ -12,7 +12,7 @@ var server = net.createServer(function(socket) {
     };
 
     log(socket, 'connected');
-    socket.on('end', function(){
+    socket.on('close', function(){
         log(socket, 'disconnected');
     });
 
